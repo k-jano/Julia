@@ -1,0 +1,2 @@
+# Zad 1
+(4 pkt) Napisać program, w którym działają trzy zadania (w tym samym procesie), z których każde wypisuje w pętli kilka razy jedną liczbę (pierwsze "1", drugie "2", trzecie "3"). Proszę zapewnić wypisywanie liczb w kolejności 1 2 3 1 2 3 .... itd., **niezależnie od kolejności uruchamiania zadań.** W rozwiązaniu nie można używać kanałów ani mechanizmów synchronizacji takich jak lock. Uwaga: wysokość oceny będzie zależeć od poprawności i prostoty implementacji (im prostsza tym lepsza). 
